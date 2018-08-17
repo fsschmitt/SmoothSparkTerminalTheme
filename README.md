@@ -11,9 +11,8 @@ Click 'Default'
 
 ## Screenshots
 
-![Build](build.png)
-
 ![Diff](diff.png)
 
 ![Emacs](emacs.png)
 
+![Build](build.png)
